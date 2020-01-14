@@ -1,8 +1,7 @@
 import React, { Component } from "react";
-import { AppBar } from "@material-ui/core";
+import { AppBar, Button } from "@material-ui/core";
 import TextField from "@material-ui/core/TextField";
 import MuiThemeProvider from "@material-ui/core/styles/MuiThemeProvider";
-import Button from "@material-ui/core/button";
 
 class FormUserDetails extends Component {
   continue = e => {

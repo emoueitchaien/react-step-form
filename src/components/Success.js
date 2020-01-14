@@ -1,6 +1,5 @@
 import React, { Component } from "react";
-import { AppBar } from "@material-ui/core";
-import Button from "@material-ui/core/button";
+import { AppBar, Button } from "@material-ui/core";
 import MuiThemeProvider from "@material-ui/core/styles/MuiThemeProvider";
 
 class Success extends Component {
