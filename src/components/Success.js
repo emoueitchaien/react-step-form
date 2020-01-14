@@ -5,7 +5,6 @@ import MuiThemeProvider from "@material-ui/core/styles/MuiThemeProvider";
 
 class Success extends Component {
   home = () => {
-    
     this.props.homeStep();
   };
   render() {
